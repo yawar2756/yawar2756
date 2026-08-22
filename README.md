@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>👨‍💻 Yawar Nazir Sheikh</h1>
+# 👨‍💻 Yawar Nazir Sheikh
 
-<h3>2nd Year B.Tech CSE @ NMAM Institute of Technology, Nitte</h3>
+### 2nd Year B.Tech CSE @ NMAM Institute of Technology, Nitte
 
-<p>
-Full-Stack Developer · IoT Builder · Backend Enthusiast
-</p>
+**Full-Stack Developer · IoT Builder · Backend Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+real-world+software;Backend+%7C+Full+Stack+%7C+IoT;Exploring+AI+%26+Cloud;Build+%E2%80%A2+Learn+%E2%80%A2+Ship" alt="Typing Animation">
 
@@ -28,7 +26,7 @@ Full-Stack Developer · IoT Builder · Backend Enthusiast
 
 I'm a **2nd-year B.Tech Computer Science & Engineering student at NMAM Institute of Technology, Nitte**, focused on building practical software systems and real-world applications.
 
-My interests currently sit at the intersection of:
+My interests currently include:
 
 - Backend Engineering
 - Full-Stack Development
@@ -65,25 +63,24 @@ I enjoy taking an idea from:
 
 <h3>🌦️ GPCA Smart Weather Station</h3>
 
-<p>
 A real-time IoT weather monitoring system built using environmental sensors and an ESP8266-based architecture.
-</p>
 
-<h4>Architecture</h4>
+<b>Architecture</b>
 
-<p>
-Environmental Sensors → ESP8266 → Wi-Fi / REST API → Flask Backend → PostgreSQL → Web Dashboard
-</p>
+Environmental Sensors → ESP8266 → REST API → Flask → PostgreSQL → Dashboard
 
-<p>
-<b>Stack:</b><br>
+<br><br>
+
+<b>Stack</b>
+
 <code>ESP8266</code>
 <code>Python</code>
 <code>Flask</code>
 <code>PostgreSQL</code>
 <code>JavaScript</code>
 <code>Chart.js</code>
-</p>
+
+<br><br>
 
 <a href="https://github.com/yawar2756/iot-weather-station">
 View Repository →
@@ -95,20 +92,24 @@ View Repository →
 
 <h3>🏥 Clinic Management System</h3>
 
-<p>
 A full-stack application designed to manage clinic workflows, appointments and application data.
-</p>
 
-<p>
-<b>Stack:</b><br>
+<b>Stack</b>
+
 <code>Node.js</code>
 <code>React</code>
 <code>Database</code>
 <code>REST API</code>
-</p>
 
-<p><b>Focus:</b> Backend architecture · API design · Application workflows</p>
-<p><b>Status:</b> Development</p>
+<br><br>
+
+<b>Focus</b>
+
+Backend Architecture · API Design · Application Workflows
+
+<br><br>
+
+<b>Status:</b> Development
 
 </td>
 
@@ -133,11 +134,11 @@ A full-stack application designed to manage clinic workflows, appointments and a
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Overview
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yawar2756&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements">
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="96%" alt="GitHub Profile Details">
 
 </div>
 
@@ -147,11 +148,17 @@ A full-stack application designed to manage clinic workflows, appointments and a
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="96%" alt="GitHub Profile Details">
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yawar2756&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Activity Graph">
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yawar2756&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements">
 
 </div>
 
@@ -186,7 +193,11 @@ A full-stack application designed to manage clinic workflows, appointments and a
 
 <div align="center">
 
-`AI` · `Cloud` · `System Design` · `Backend Architecture` · `IoT`
+**🤖 AI** &nbsp; · &nbsp;
+**☁️ Cloud** &nbsp; · &nbsp;
+**🧠 System Design** &nbsp; · &nbsp;
+**⚙️ Backend Architecture** &nbsp; · &nbsp;
+**🔌 IoT**
 
 </div>
 
@@ -196,7 +207,7 @@ A full-stack application designed to manage clinic workflows, appointments and a
 
 <div align="center">
 
-<h3>Learn → Build → Break → Debug → Improve → Ship</h3>
+### Learn → Build → Break → Debug → Improve → Ship
 
 </div>
 
@@ -214,12 +225,8 @@ A full-stack application designed to manage clinic workflows, appointments and a
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<b>Build · Learn · Ship</b>
+**Build · Learn · Ship**
 
 </div>
