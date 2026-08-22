@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Yawar Nazir Sheikh 👋
 
-<!--
-**yawar2756/yawar2756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student • Full-Stack Developer • IoT Builder
 
-Here are some ideas to get you started:
+I build practical software and IoT systems with a focus on backend development, real-time data, and useful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently
+
+- 🔭 Building IoT and full-stack projects
+- 🌱 Learning AI, cloud technologies, and system design
+- 💻 Working with Python, Flask, JavaScript, React, and PostgreSQL
+- ⚡ Interested in turning real-world problems into software
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Python • C/C++ • JavaScript • SQL
+
+**Backend**
+
+Flask • Node.js • REST APIs
+
+**Frontend**
+
+HTML • CSS • JavaScript • React
+
+**Database**
+
+PostgreSQL • Supabase
+
+**Tools & Platforms**
+
+Git • GitHub • Linux • Render • ESP8266
+
+---
+
+## ⭐ Featured Projects
+
+### 🌦️ GPCA Smart Weather Station
+
+IoT-based weather monitoring system using ESP8266, environmental sensors, Flask, PostgreSQL, and a real-time web dashboard.
+
+**ESP8266 → Sensors → Flask API → PostgreSQL → Dashboard**
+
+### 🏥 Clinic Management System
+
+Full-stack system for managing clinic operations, appointments, and related workflows.
+
+---
+
+## 📊 GitHub
+
+Building consistently, learning continuously, and shipping practical projects.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: Coming soon
+- Portfolio: Coming soon
+- Email: Available on request
+
+---
+
+### 💡 Build • Learn • Ship
