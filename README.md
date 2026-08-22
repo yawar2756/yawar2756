@@ -148,33 +148,11 @@ Full-stack application designed for clinic workflows and appointment management.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yawar2756&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="96%" alt="GitHub Achievements">
-
-</div>
-
----
-
-## 🧊 Contribution 3D
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yawar2756/yawar2756/main/profile-3d-contrib/profile-season-animate.svg" width="96%" alt="3D Contribution Calendar">
-
-</div>
-
-> The 3D contribution graphic will appear automatically after the GitHub Profile 3D Contribution workflow generates the file.
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
 
-`🤖 AI`   `☁️ Cloud`   `🧠 System Design`   `🔌 IoT`   `⚙️ Backend`
+`🤖 AI` &nbsp; `☁️ Cloud` &nbsp; `🧠 System Design` &nbsp; `🔌 IoT` &nbsp; `⚙️ Backend`
 
 </div>
 
