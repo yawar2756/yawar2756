@@ -1,194 +1,84 @@
-<div align="center">
+<div align="center">👨‍💻 Yawar Nazir Sheikh
 
-# 👨‍💻 Yawar Nazir Sheikh
+"CSE Student" · "Full-Stack Developer" · "IoT Builder"
 
-### `CSE Student` • `Developer` • `IoT Builder`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+real-world+software;IoT+%7C+Backend+%7C+Full+Stack;Exploring+AI+%26+Cloud;Build+%E2%80%A2+Learn+%E2%80%A2+Ship" alt="Typing animation" /><br><a href="https://github.com/yawar2756">
+<img src="https://img.shields.io/badge/GitHub-yawar2756-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/yawar99">
+<img src="https://img.shields.io/badge/LinkedIn-Yawar%20Nazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+real-world+software+%F0%9F%9A%80;IoT+%7C+Backend+%7C+Full+Stack;Learning+AI+%26+Cloud;Build+%E2%80%A2+Learn+%E2%80%A2+Ship" alt="Typing SVG" />
+👨‍💻 About Me
 
-</div>
+I'm a Computer Science Engineering student focused on building practical software, backend systems, and IoT applications.
 
----
+Focus: "Backend" · "Full Stack" · "IoT" · "REST APIs" · "PostgreSQL" · "Cloud"
 
-## 🧠 About Me
-
-```text
-CSE student focused on building practical systems.
-
-→ Full-Stack Development
-→ Backend & REST APIs
-→ IoT & Embedded Systems
-→ Databases
-→ Cloud Deployment
-→ Exploring AI
-```
+Currently exploring AI, cloud architecture, and system design.
 
 ---
 
-## ⚡ Currently
+🛠️ Tech Stack
+
+<div align="center"><img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,flask,postgres,supabase,arduino,git,github,linux,vscode&perline=8&theme=dark" alt="Tech Stack"></div>---
+
+🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">🌦️ GPCA Smart Weather Station
 
-### 🔭 Building
-
-**GPCA Smart Weather Station**
+Real-time IoT weather monitoring system.
 
 ESP8266 → Flask → PostgreSQL → Dashboard
 
-</td>
-<td width="50%">
+"IoT" "Python" "Flask" "PostgreSQL"
 
-### 🌱 Learning
+<a href="https://github.com/yawar2756/iot-weather-station">
+View Repository →
+</a></td><td width="50%" valign="top">🏥 Clinic Management System
 
-**AI • Cloud • System Design**
+Full-stack application for clinic workflows and appointment management.
 
-Improving backend architecture and building better real-world applications.
+"Node.js" "React" "Database"
+
+Status: Development
 
 </td>
 </tr>
-</table>
+</table>---
 
----
+📊 GitHub Analytics
 
-## 🛠️ Tech Stack
+<div align="center"><img src="./profile-summary-card-output/github-stats.svg" width="49%" alt="GitHub Statistics"><img src="./profile-summary-card-output/repos-per-language.svg" width="49%" alt="Repository Languages"></div>---
 
-<div align="center">
+📈 Contribution Overview
 
-### Languages
+<div align="center"><img src="./profile-summary-card-output/profile-details.svg" width="96%" alt="GitHub Profile Details"></div>---
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql&theme=dark" />
+🧊 Contribution 3D
 
-### Backend & Frontend
+<div align="center"><img src="./profile-3d-contrib/profile-season-animate.svg" width="96%" alt="3D Contribution Calendar"></div>---
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,react&theme=dark" />
+🎯 Current Focus
 
-### Database & Tools
+<div align="center">"🤖 AI"   "☁️ Cloud"   "🧠 System Design"   "🔌 IoT"
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,linux,vscode&theme=dark" />
+</div>---
 
-### IoT
+⚡ Development Philosophy
 
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+<div align="center">Learn → Build → Break → Debug → Improve → Ship
 
-</div>
+</div>---
 
----
+🤝 Connect
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yawar2756/iot-weather-station">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yawar2756&repo=iot-weather-station&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-### 🌦️ GPCA Smart Weather Station
-
-Real-time IoT weather monitoring system using:
-
-`ESP8266` `Sensors` `Flask` `PostgreSQL` `JavaScript` `Chart.js`
-
-**Architecture**
-
-```text
-Sensors
-   ↓
-ESP8266
-   ↓
-Wi-Fi / REST API
-   ↓
-Flask Backend
-   ↓
-PostgreSQL
-   ↓
-Web Dashboard
-```
-
-[**View Project →**](https://github.com/yawar2756/iot-weather-station)
-
----
-
-### 🏥 Clinic Management System
-
-A full-stack application focused on managing clinic workflows and appointments.
-
-`Node.js` `React` `Database`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/yawar2756">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yawar2756&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/yawar2756">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawar2756&layout=compact&langs_count=8&hide_border=true&theme=radical" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yawar2756&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yawar2756&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 🎯 2026 Focus
-
-```text
-[✓] Build real-world projects
-[✓] Learn backend development
-[✓] Work with IoT systems
-[ ] Deepen system design
-[ ] Build AI-powered applications
-[ ] Deploy larger production systems
-```
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/yawar2756">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Build • Learn • Ship
-
-<img src="https://komarev.com/ghpvc/?username=yawar2756&style=for-the-badge&color=8B5CF6" alt="Profile views" />
+<div align="center"><a href="https://github.com/yawar2756">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a><a href="https://www.linkedin.com/in/yawar99">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a></div><br><div align="center">Build · Learn · Ship
 
 </div>
