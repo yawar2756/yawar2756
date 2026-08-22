@@ -1,84 +1,64 @@
-<div align="center">👨‍💻 Yawar Nazir Sheikh
-
-"CSE Student" · "Full-Stack Developer" · "IoT Builder"
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+real-world+software;IoT+%7C+Backend+%7C+Full+Stack;Exploring+AI+%26+Cloud;Build+%E2%80%A2+Learn+%E2%80%A2+Ship" alt="Typing animation" /><br><a href="https://github.com/yawar2756">
-<img src="https://img.shields.io/badge/GitHub-yawar2756-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/yawar99">
-<img src="https://img.shields.io/badge/LinkedIn-Yawar%20Nazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a></div>---
-
-👨‍💻 About Me
-
-I'm a Computer Science Engineering student focused on building practical software, backend systems, and IoT applications.
-
-Focus: "Backend" · "Full Stack" · "IoT" · "REST APIs" · "PostgreSQL" · "Cloud"
-
-Currently exploring AI, cloud architecture, and system design.
-
----
-
-🛠️ Tech Stack
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,flask,postgres,supabase,arduino,git,github,linux,vscode&perline=8&theme=dark" alt="Tech Stack"></div>---
-
-🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">🌦️ GPCA Smart Weather Station
-
-Real-time IoT weather monitoring system.
-
-ESP8266 → Flask → PostgreSQL → Dashboard
-
-"IoT" "Python" "Flask" "PostgreSQL"
-
-<a href="https://github.com/yawar2756/iot-weather-station">
-View Repository →
-</a></td><td width="50%" valign="top">🏥 Clinic Management System
-
-Full-stack application for clinic workflows and appointment management.
-
-"Node.js" "React" "Database"
-
-Status: Development
-
-</td>
-</tr>
-</table>---
-
-📊 GitHub Analytics
-
-<div align="center"><img src="./profile-summary-card-output/github-stats.svg" width="49%" alt="GitHub Statistics"><img src="./profile-summary-card-output/repos-per-language.svg" width="49%" alt="Repository Languages"></div>---
-
-📈 Contribution Overview
-
-<div align="center"><img src="./profile-summary-card-output/profile-details.svg" width="96%" alt="GitHub Profile Details"></div>---
-
-🧊 Contribution 3D
-
-<div align="center"><img src="./profile-3d-contrib/profile-season-animate.svg" width="96%" alt="3D Contribution Calendar"></div>---
-
-🎯 Current Focus
-
-<div align="center">"🤖 AI"   "☁️ Cloud"   "🧠 System Design"   "🔌 IoT"
-
-</div>---
-
-⚡ Development Philosophy
-
-<div align="center">Learn → Build → Break → Debug → Improve → Ship
-
-</div>---
-
-🤝 Connect
-
-<div align="center"><a href="https://github.com/yawar2756">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a><a href="https://www.linkedin.com/in/yawar99">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a></div><br><div align="center">Build · Learn · Ship
-
-</div>
+Yawar Nazir Sheikh
+2nd Year B.Tech CSE @ NMAM Institute of Technology, Nitte
+Full-Stack Developer  ·  IoT Builder  ·  Backend Enthusiast
+GitHub: github.com/yawar2756   |   LinkedIn: linkedin.com/in/yawar99
+ABOUT
+I'm a 2nd-year B.Tech Computer Science & Engineering student at NMAM Institute of Technology, Nitte, focused
+on building practical software systems and real-world applications.
+My interests currently sit at the intersection of Backend Engineering, Full-Stack Development, IoT & Embedded Systems,
+REST API Development, PostgreSQL & Database Systems, Cloud Deployment, AI and System Design.
+Build real things. Understand how they work. Improve them continuously.
+TECH STACK
+Languages
+Frontend
+Backend
+Database
+Python · C++ · JavaScript · HTML · CSS
+React
+Node.js · Flask · REST APIs
+PostgreSQL · Supabase
+IoT / Tools
+Arduino · Git · GitHub · Linux · VS Code
+FEATURED PROJECTS
+nn GPCA Smart Weather Station
+A real-time IoT weather monitoring system built using environmental sensors and an ESP8266-based architecture.
+Architecture: Environmental Sensors fi ESP8266 fi Wi-Fi / REST API fi Flask Backend fi PostgreSQL fi Web
+Dashboard
+Stack: ESP8266 · Python · Flask · PostgreSQL · JavaScript · Chart.js
+Repository: github.com/yawar2756/iot-weather-station
+n Clinic Management System
+A full-stack application designed to manage clinic workflows, appointments and application data.
+Stack: Node.js · React · Database · REST API    Status: Development
+GITHUB ANALYTICS
+The profile uses the generated GitHub Profile Summary Cards with the TokyoNight theme.
+• profile-summary-card-output/tokyonight/0-profile-details.svg
+• profile-summary-card-output/tokyonight/1-repos-per-language.svg
+• profile-summary-card-output/tokyonight/2-most-commit-language.svg
+• profile-summary-card-output/tokyonight/3-stats.svg
+• profile-summary-card-output/tokyonight/4-productive-time.svg
+GITHUB ACHIEVEMENTS
+GitHub profile trophies and achievements are displayed using the GitHub Profile Trophy service.
+CONTRIBUTION ACTIVITY
+The profile includes GitHub contribution activity and an activity graph for a more complete developer overview.
+3D CONTRIBUTION CALENDAR
+The profile includes an animated 3D contribution calendar generated under
+profile-3d-contrib/profile-season-animate.svg.
+2026 FOCUS
+3 Strengthen CSE fundamentals
+3 Build real-world projects
+3 Improve backend development
+3 Work with IoT systems
+3 Practice API & database design
+n Build AI-powered applications
+n Deepen cloud architecture
+n Improve system design
+n Deploy production-grade applications
+n Contribute to open source
+DEVELOPMENT PHILOSOPHY
+Learn fi Build fi Break fi Debug fi Improve fi Ship
+CURRENTLY EXPLORING
+AI · Cloud · System Design · Backend Architecture · IoT
+CONNECT
+GitHub: https://github.com/yawar2756
+LinkedIn: https://www.linkedin.com/in/yawar99
+Build · Learn · Ship
