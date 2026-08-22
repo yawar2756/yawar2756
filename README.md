@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Yawar%20Nazir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=yawar2756&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views">
 
 </div>
 
