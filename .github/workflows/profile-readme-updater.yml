@@ -1,0 +1,70 @@
+name: Profile README Updater
+
+on:
+  schedule:
+    # Run weekly at 12:00 UTC every Sunday at 12:00 (Korea time) to update dynamic badges and stats
+    - cron: "0 12 * * 0"
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dateutil
+
+      - name: Update Profile README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          #!/usr/bin/env python3
+          import requests
+          from datetime import datetime, timedelta
+          import os
+
+          # Load current README content
+          readme_path = "README.md"
+          with open(readme_path, "r") as f:
+            readme_content = f.read()
+
+          # Get today's date in UTC (format: YYYY-MM-DD)
+          today_utc = datetime.utcnow().strftime("%Y-%m-%d")
+
+          # Compute last-modified timestamp and generate GitHub Stats badge
+          # Using current UTC time for consistency
+          timestamp = datetime.utcnow()
+          stats_url = f"https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yawar2756/repos?per_page=100&sort=updated&since={timestamp.isoformat()}Z&query=%24.length&label=Repos%20Updated%20Since%20{today_utc}&color=blue"
+
+          # Update stats in README
+          # Replace existing stats line with new one
+          lines = readme_content.split('\n')
+          for i, line in enumerate(lines):
+            if 'Repos Updated Since' in line and 'badge' in line.lower():
+              # Remove the old stats line (clean split)
+              lines[i] = f"[![Repos Updated Since {today_utc}]({stats_url})](https://github.com/yawar2756?since={timestamp.isoformat()}Z)"
+              break
+
+          # Write back the updated README
+          with open(readme_path, "w") as f:
+            f.write('\n'.join(lines))
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --stat
+          git commit -m "Update dynamic stats badge"
+          git push
+          echo "✅ Profile README updated successfully"
+          echo "🎉 Happy coding!"
